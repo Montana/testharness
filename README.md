@@ -3,7 +3,8 @@
 
 ## Pulling from a Dirty Tree 
 
-```$ git pull
+```
+$ git pull
 file foobar not up to date, cannot merge.
 $ git stash
 $ git pull
