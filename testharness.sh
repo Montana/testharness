@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# start tests
+
 STASH_NAME="pre-commit-$(date +%s)"
 
 function log {
